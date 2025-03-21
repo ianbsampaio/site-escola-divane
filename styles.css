@@ -1,0 +1,73 @@
+/* Definindo o fundo padrão e a cor das fontes */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  h3 {
+    font-size: 24px; /* Tamanho do texto */
+    font-weight: bold; /* Negrito */
+    color: #2e8b57; /* Verde claro */
+    text-align: center; /* Centralizar o texto */
+    text-transform: uppercase; /* Todas as letras em maiúsculo */
+    margin-bottom: 20px; /* Espaço inferior */
+    border-bottom: 2px solid #a8e6a1; /* Linha decorativa abaixo do título */
+    padding-bottom: 10px; /* Espaço interno inferior */
+}
+
+.carousel {
+    max-width: 600px; /* Define a largura máxima do carrossel */
+    margin: auto; /* Centraliza o carrossel na tela */
+}
+
+.carousel img {
+    height: 300px; /* Altura fixa para todas as imagens */
+    object-fit: cover; /* Mantém a proporção e corta excessos */
+    border-radius: 10px; /* Borda arredondada para um design mais bonito */
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* Sombra leve */
+}
+
+
+  /* Ajustando o estilo da navbar */
+  .navbar {
+    background-color: #a8e6a1;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #fff;
+    background-color: #5cb85c;
+  }
+  
+  /* Estilo para as seções */
+  section {
+    padding: 60px 0;
+  }
+  
+  /* Ajustando o estilo dos cards da equipe */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo do Rodapé */
+  footer {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  footer p {
+    margin: 10px 0;
+  }
+  
+  footer i {
+    margin-right: 10px;
+  }
+  
+  footer .container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
