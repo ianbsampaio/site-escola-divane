@@ -1,0 +1,2 @@
+# site-escola-divane
+ Projeto de Extensão (PEX) desenvolvido para o curso de Análise e Desenvolvimento de Sistemas da faculdade Descomplica. O objetivo deste projeto é criar um site institucional para a Escola Municipal Divane Mendes de Sá. O site está sendo construído com HTML, CSS e JavaScript, e será hospedado no GitHub Pages. A proposta inclui funcionalidades interativas para melhorar a experiência dos visitantes.
